@@ -1,5 +1,5 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# Criação de banco de dados usando ASW CLI e DynamoBD
+Esse repositorio faz parte do desafio de projeto do bootcamp Geração Tech Unimed-BH - Ciência de Dados.
 
 ### Serviço utilizado
   - Amazon DynamoDB
